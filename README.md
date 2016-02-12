@@ -1,10 +1,10 @@
 # Home CCTV Server
 
 This program is part of my home CCTV system. Full list of programs in the system:
-* Home CCTV Server (Main program)
-* Motiondetector
-* CCTV HTTP
-* CCTV Android Client
+* [Home CCTV Server (Main program)](https://github.com/SorroZ/homecctvserver)
+* [Motiondetector](https://github.com/SorroZ/motiondetector)
+* [CCTV HTTP](https://github.com/SorroZ/cctvHTTP)
+* [CCTV Android Client](https://github.com/SorroZ/cctvAndroidClient)
 
 #### System functionality
 At the moment the main system (Home CCTV Server, Motiondetector and CCTV HTTP) is run on a Raspberry Pi B+ (Raspian). 
